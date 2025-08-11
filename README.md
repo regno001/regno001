@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @regno001
+- 👋 Hi, I’m Rahul
 - 👀 I’m interested in Web Development
 - 🌱 I’m currently learning React/next.js
 - 💞️ I’m looking to collaborate on projects
